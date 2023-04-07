@@ -1,8 +1,12 @@
 # Teleporta-Blindow
 Nazwa programu: Teleporta Blindow
+
 Autor: Telepator - Marcin Szczepański
+
 Data utworzenia: 03.2023
+
 Ostatnia modyfikacja: 03.04.2023
+
 Wersja: 1.00
 Opis programu: Program służy do sterowania roletami za pomocą dwóch przekaźników i mikrokontrolera.
 Pierwszy przekaźnik odpowiada za włączanie i wyłączanie napięcia, drugi za kierunek ruchu rolety (w górę lub w dół).
